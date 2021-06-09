@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # VS Code
 .vscode
+
+# jupyter notebooks
+.ipynb_checkpoints
